@@ -15,3 +15,4 @@
  - https://auth.udacity.com/sign-up?next=https%3A%2F%2Flearn.udacity.com%2Fcourses%2Fud187
  - https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
  - https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5760236#overview
+ - https://www.youtube.com/watch?v=2osIZ-dSPGE&t=298s
