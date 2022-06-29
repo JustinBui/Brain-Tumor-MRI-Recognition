@@ -11,6 +11,8 @@
 
 ## Learning Resources:
  - https://www.kaggle.com/code/salikhussaini49/brain-tumor-prediction-97
+ - https://www.kaggle.com/code/ahmedhamada0/brain-tumor-detection-br35h
+ - https://www.kaggle.com/code/dinakhalid/brain-tumor-detection
  - https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN
  - https://auth.udacity.com/sign-up?next=https%3A%2F%2Flearn.udacity.com%2Fcourses%2Fud187
  - https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
