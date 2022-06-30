@@ -6,8 +6,11 @@ This is a deep learning project where I've built a machine learning model that c
 # Various Tech Stacks Used:
 
 ## Environments:
+
+<p align="left">
 <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
+</p>
 
 ## Data Visualization:
 <p align="left">
