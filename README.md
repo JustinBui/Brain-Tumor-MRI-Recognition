@@ -21,7 +21,6 @@ This is a deep learning project where I've built a machine learning model that c
 
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="html" style="vertical-align:top; margin:3px"> 
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="html" style="vertical-align:top; margin:3px"> 
 </p>
 
  - Matplotlib
