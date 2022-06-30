@@ -5,18 +5,18 @@ This is a deep learning project where I've built a machine learning model that c
 
 # Various Tech Stacks Used:
 
-## Language:
+### Language:
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="html" style="vertical-align:top; margin:3px">
 
 
-## Environments:
+### Environments:
 
 <p align="left">
 <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 </p>
 
-## Data Visualization:
+### Data Visualization:
 <p align="left">
 
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
@@ -27,7 +27,7 @@ This is a deep learning project where I've built a machine learning model that c
  - Matplotlib
  - Seaborn
 
-## Machine Learning:
+### Machine Learning:
 <p align="left">
 
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
