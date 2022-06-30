@@ -5,6 +5,10 @@ This is a deep learning project where I've built a machine learning model that c
 
 # Various Tech Stacks Used:
 
+## Language:
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="html" style="vertical-align:top; margin:3px">
+
+
 ## Environments:
 
 <p align="left">
